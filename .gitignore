@@ -1,6 +1,6 @@
 .venv
 .env
 test.c
-diagonse_env.py
+diagnose_env.py
 a.exe
 .db
